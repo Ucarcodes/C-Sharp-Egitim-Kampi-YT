@@ -1,0 +1,7 @@
+C:\Users\Mevlut\Desktop\Youtube C# MY Akademi\Projeler\CSharpKampiYT\02_Ders\bin\Debug\02_Ders.exe.config
+C:\Users\Mevlut\Desktop\Youtube C# MY Akademi\Projeler\CSharpKampiYT\02_Ders\bin\Debug\02_Ders.exe
+C:\Users\Mevlut\Desktop\Youtube C# MY Akademi\Projeler\CSharpKampiYT\02_Ders\bin\Debug\02_Ders.pdb
+C:\Users\Mevlut\Desktop\Youtube C# MY Akademi\Projeler\CSharpKampiYT\02_Ders\obj\Debug\02_Ders.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\Youtube C# MY Akademi\Projeler\CSharpKampiYT\02_Ders\obj\Debug\02_Ders.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Youtube C# MY Akademi\Projeler\CSharpKampiYT\02_Ders\obj\Debug\02_Ders.exe
+C:\Users\Mevlut\Desktop\Youtube C# MY Akademi\Projeler\CSharpKampiYT\02_Ders\obj\Debug\02_Ders.pdb
