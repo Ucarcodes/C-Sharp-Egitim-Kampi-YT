@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92E8B0DE-6B3A-402F-A0E7-6FD21D9A8D6F}|10_Ders\\10_Ders.csproj|c:\\users\\mevlut\\desktop\\youtube c# my akademi\\projeler\\csharpkampiyt\\10_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E8B0DE-6B3A-402F-A0E7-6FD21D9A8D6F}|10_Ders\\10_Ders.csproj|solutionrelative:10_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E532E10-010C-43A6-BEAD-4C3670A940DB}|09_Ders\\09_Ders.csproj|c:\\users\\mevlut\\desktop\\youtube c# my akademi\\projeler\\csharpkampiyt\\09_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E532E10-010C-43A6-BEAD-4C3670A940DB}|09_Ders\\09_Ders.csproj|solutionrelative:09_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A13C7D27-E4E9-4081-813D-E9B31C918258}|08_Ders\\08_Ders.csproj|c:\\users\\mevlut\\desktop\\youtube c# my akademi\\projeler\\csharpkampiyt\\08_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A13C7D27-E4E9-4081-813D-E9B31C918258}|08_Ders\\08_Ders.csproj|solutionrelative:08_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30BDACA8-58BB-4E01-9DD6-DF9DB8089666}|07_Ders\\07_Ders.csproj|C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\07_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30BDACA8-58BB-4E01-9DD6-DF9DB8089666}|07_Ders\\07_Ders.csproj|solutionrelative:07_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C4A030A-02DD-48D2-B462-DDB6BCCA56E5}|06_Ders\\06_Ders.csproj|C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\06_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C4A030A-02DD-48D2-B462-DDB6BCCA56E5}|06_Ders\\06_Ders.csproj|solutionrelative:06_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ACB8DE1-4CB5-4EB4-B2C6-A946A7256572}|05_Ders\\05_Ders.csproj|C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\05_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACB8DE1-4CB5-4EB4-B2C6-A946A7256572}|05_Ders\\05_Ders.csproj|solutionrelative:05_ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,52 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\08_Ders\\Program.cs",
-              "RelativeDocumentMoniker": "08_Ders\\Program.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\08_Ders\\Program.cs",
-              "RelativeToolTip": "08_Ders\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\10_Ders\\Program.cs",
+              "RelativeDocumentMoniker": "10_Ders\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\10_Ders\\Program.cs",
+              "RelativeToolTip": "10_Ders\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:14:02.928Z",
+              "WhenOpened": "2024-11-02T07:23:26.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\07_Ders\\Program.cs",
-              "RelativeDocumentMoniker": "07_Ders\\Program.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\07_Ders\\Program.cs",
-              "RelativeToolTip": "07_Ders\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwIAAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\09_Ders\\Program.cs",
+              "RelativeDocumentMoniker": "09_Ders\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\09_Ders\\Program.cs",
+              "RelativeToolTip": "09_Ders\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T15:35:25.602Z",
+              "WhenOpened": "2024-11-02T06:30:30.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\06_Ders\\Program.cs",
-              "RelativeDocumentMoniker": "06_Ders\\Program.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\06_Ders\\Program.cs",
-              "RelativeToolTip": "06_Ders\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAOkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\08_Ders\\Program.cs",
+              "RelativeDocumentMoniker": "08_Ders\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\08_Ders\\Program.cs",
+              "RelativeToolTip": "08_Ders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T10:47:44.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\05_Ders\\Program.cs",
-              "RelativeDocumentMoniker": "05_Ders\\Program.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Youtube C# MY Akademi\\Projeler\\CSharpKampiYT\\05_Ders\\Program.cs",
-              "RelativeToolTip": "05_Ders\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T10:16:00.003Z",
+              "WhenOpened": "2024-10-30T06:51:06.3Z",
               "EditorCaption": ""
             }
           ]
