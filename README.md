@@ -24,3 +24,9 @@ Bu projede, Foreach döngüsü ve List kullanımlarını öğrendim. Foreach ve 
 
 ## :pushpin: Ders 8: Geriye Değer Döndürmeyen ve Geriye Değer Döndüren Metotlar
 Bu projede geriye değer döndürmeyen (void) metotlar ve geriye değer döndüren metotların kullanımlarını öğrendim. Geriye değer döndürmeyen parametreli int ve string metotlar, Geriye değer döndüren metotlar, Geriye değer döndüren parametreli int ve string metotlar, Sınav geçme/kalma uygulaması gibi örnekler yaptım.
+
+## :pushpin: Ders 9: SQL Veri Tabanlı Ürün - Kategori Bilgi Sistemi Uygulaması
+Bu projede, ADO.NET kütüphanesi kullanılarak ürün - kategori bilgisi veren bir veri tabanı uygulaması geliştirmeyi öğrendim.
+
+## :pushpin: Ders 10: SQL Veritabanı CRUD İşlemleri Uygulaması
+Bu projede, CRUD (Oluşturma, Okuma, Güncelleme, Silme) fonksiyonlarının kullanımlarını öğrendim. Ürün ekleme, Ürün listeleme, Ürün silme ve Ürün güncelleme gibi örnekler yaptım. 
